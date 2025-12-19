@@ -1,0 +1,1 @@
+The Levee System Ontology (LSO) is an OWL-based framework that models the structural and dynamic complexity of levee systems for flood-risk assessment. Built on BFO and CCO, it represents levee components, processes, and failure mechanisms, and aligns directly with the National Levee Database (NLD) for semantic interoperability.
